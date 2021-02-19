@@ -21,5 +21,5 @@ And check out my portfolio to see all my projects! -> [Portfolio][4]
 
 
 <!-- links to social media accounts -->
-[3]: https://www.linkedin.com/in/tipene-hughes-5b380744/
+[3]: https://www.linkedin.com/in/justingruen/
 [4]: https://www.justingruen.com
