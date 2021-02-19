@@ -1,6 +1,6 @@
 # Hi there!
 
-My name is Justin Gruen. I'm a recent graduate seeking my first out-of-college professional role as a web developer, front end or back end. I love to build visually beautiful, accessible, and user friendly websites.
+My name is Justin Gruen. I'm a recent graduate seeking a professional role as a web developer, front end or back end. I love to build visually beautiful, accessible, and user friendly websites.
 
 Check out my LinkedIn to find out more about me! -> [LinkedIn][3]
 
